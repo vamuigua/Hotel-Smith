@@ -102,9 +102,11 @@ FOOTER
 }
 
 .bottom img{
+  width: 100%;
   position: absolute;
   padding-top: 30px;
   float: left;
+  height: 500px;
 }
 
 

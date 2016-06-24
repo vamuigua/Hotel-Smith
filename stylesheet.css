@@ -159,6 +159,16 @@ ABOUT
     font-size: 60px;
 }
 
+/*MENU*/
+.cd-intro img{
+  width: 600px;
+  height: 400px;
+}
+
+.cd-intro b{
+  text-align: center;
+}
+
 .sideb{
     float: left;
     background: black;
